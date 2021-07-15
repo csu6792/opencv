@@ -43,7 +43,7 @@ pip3 install numpy==1.15.4 (1.16.0 failed to support opencv 3.4.4 on RPi3)
 pip3 install opencv-contrib-python
 ```
 
-# opencv 4
+# opencv 4.4.0.46
 ```
 sudo apt-get install libgtk-3-dev
 ```
