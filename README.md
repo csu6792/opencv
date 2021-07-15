@@ -43,9 +43,12 @@ pip3 install numpy==1.15.4 (1.16.0 failed to support opencv 3.4.4 on RPi3)
 pip3 install opencv-contrib-python
 ```
 
-# opencv 4.4.0.46
+# opencv 4.4.0.46 缺少修復用
 ```
 sudo apt-get install libgtk-3-dev
+sudo apt-get install libwebp-dev
+sudo apt-get install libatlas-base-dev
+sudo apt install libharfbuzz0b
 ```
 
 ## Ubuntu insall
