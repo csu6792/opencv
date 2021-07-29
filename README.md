@@ -52,3 +52,6 @@ sudo apt install libharfbuzz0b
 ```
 
 ## Ubuntu insall
+```
+sudo apt install libgl1-mesa-glx
+```
